@@ -3,7 +3,7 @@
   "name": "module-billing-customer-portal",
   "display_name": "Billing Customer Portal",
   "description": "Provider-neutral Billing Customer Portal domain module.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "category": "capability",
   "provider": "Liberu\\Billing\\CustomerPortal\\CustomerPortalServiceProvider",
   "requires": {
@@ -30,4 +30,3 @@
     "cancellation"
   ]
 }
-
